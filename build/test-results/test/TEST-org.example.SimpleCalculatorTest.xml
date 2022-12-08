@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SimpleCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-08T11:04:49" hostname="DESKTOP-PRFDNCS" time="0.017">
+  <properties/>
+  <testcase name="test_isEven()" classname="org.example.SimpleCalculatorTest" time="0.014"/>
+  <testcase name="test_soustration()" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <testcase name="test_multiolication()" classname="org.example.SimpleCalculatorTest" time="0.0"/>
+  <testcase name="test_if_calculated_add_is_working()" classname="org.example.SimpleCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
